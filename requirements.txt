@@ -1,0 +1,5 @@
+selenium
+sauceclient
+pytest
+pytest-xdist
+requests
